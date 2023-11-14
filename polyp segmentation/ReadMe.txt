@@ -1,4 +1,4 @@
-#Polyp Segmentation Model using UNet & PSPNet
+## Polyp Segmentation Model using UNet & PSPNet
 
 Author - Mahesh Raut
 
